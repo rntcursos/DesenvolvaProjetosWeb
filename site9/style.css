@@ -1,0 +1,25 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  animation: body 4s infinite linear;
+}
+
+@keyframes body {
+  0%{background: red;}
+  20%{background: black;}
+  50%{background: blue;}
+  70%{background: rebeccapurple;}
+  100%{background: red;}
+}
+
+h1{
+  color: aliceblue;
+  animation: font-size 4s infinite alternate;
+}
+
+@keyframes font-size {
+  from{font-size: 100%;}
+  to{font-size: 200%;}
+}
