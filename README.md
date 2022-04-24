@@ -1,4 +1,4 @@
-# DesenvolvaProjetosWeb
+# Desenvolva Projetos Web
 Projetos do curso de desenvolvimento web
 
 Projetos em Html, css e javascript.
