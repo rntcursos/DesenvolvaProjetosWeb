@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: azure;
+}
+
+#container h3{
+    color: aliceblue;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(65, 160, 139);
+    border-radius: 10px;
+
+}
+
+input{
+    padding: 10px;
+    width: 300px;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-bottom: 10px;
+    border: none;
+}
+
+
+button{
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+}
+
+p{
+    color: aliceblue;
+}
